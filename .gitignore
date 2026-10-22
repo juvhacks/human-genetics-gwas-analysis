@@ -1,0 +1,18 @@
+# Raw datasets
+*.xlsx
+*.xls
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+results/derived_gwas_data.csv
